@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gas-furnace-installation-ottawa.github.io/sitemap.xml
